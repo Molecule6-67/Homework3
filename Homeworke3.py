@@ -4,5 +4,5 @@ print(name)
 print(age)
 new = 1
 age = age + new
-print(age)
-is_student = print(True)
+is_student = True
+print(is_student)
